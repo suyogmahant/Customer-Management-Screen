@@ -1,0 +1,110 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "65f12ad36c390b582d5f8a8d",
+            "name": "suyog",
+            "email": "suyog@gmail.com",
+            "mobile": 9022196154,
+            "city": "nagpur",
+            "state": "maharashtra",
+            "country": "india",
+            "marritalStatus": "no",
+            "gender": "male",
+            "createdAt": "2024-03-13T04:25:56.041Z",
+            "updatedAt": "2024-03-13T04:55:10.123Z",
+            "__v": 0
+        },
+        {
+            "_id": "65f1e7f338d1ad3ed7dd1891",
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "mobile": 123456,
+            "city": "awrt",
+            "state": "assdd",
+            "country": "nbnbn",
+            "gender": "kjjjk",
+            "createdAt": "2024-03-13T17:52:51.101Z",
+            "updatedAt": "2024-03-13T17:52:51.101Z",
+            "__v": 0
+        },
+        {
+            "_id": "65f1f26d38d1ad3ed7dd18b4",
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "mobile": 123456,
+            "city": "awrt",
+            "state": "assdd",
+            "country": "nbnbn",
+            "gender": "kjjjk",
+            "createdAt": "2024-03-13T18:37:33.395Z",
+            "updatedAt": "2024-03-13T18:37:33.395Z",
+            "__v": 0
+        },
+        {
+            "_id": "65f1f27338d1ad3ed7dd18b7",
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "mobile": 123456,
+            "city": "awrt",
+            "state": "assdd",
+            "country": "nbnbn",
+            "gender": "kjjjk",
+            "createdAt": "2024-03-13T18:37:39.456Z",
+            "updatedAt": "2024-03-13T18:37:39.456Z",
+            "__v": 0
+        },
+        {
+            "_id": "65f1f2ed38d1ad3ed7dd18bc",
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "mobile": 123456,
+            "city": "awrt",
+            "state": "assdd",
+            "country": "nbnbn",
+            "gender": "kjjjk",
+            "createdAt": "2024-03-13T18:39:41.581Z",
+            "updatedAt": "2024-03-13T18:39:41.581Z",
+            "__v": 0
+        },
+        {
+            "_id": "65f1f2f538d1ad3ed7dd18bf",
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "mobile": 123456,
+            "city": "awrt",
+            "state": "assdd",
+            "country": "nbnbn",
+            "gender": "kjjjk",
+            "createdAt": "2024-03-13T18:39:49.567Z",
+            "updatedAt": "2024-03-13T18:39:49.567Z",
+            "__v": 0
+        },
+        {
+            "_id": "65f1f30038d1ad3ed7dd18c2",
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "mobile": 123456,
+            "city": "awrt",
+            "state": "assdd",
+            "country": "nbnbn",
+            "gender": "kjjjk",
+            "createdAt": "2024-03-13T18:40:00.597Z",
+            "updatedAt": "2024-03-13T18:40:00.597Z",
+            "__v": 0
+        },
+        {
+            "_id": "65f1f30e38d1ad3ed7dd18c5",
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "mobile": 123456,
+            "city": "awrt",
+            "state": "assdd",
+            "country": "nbnbn",
+            "gender": "kjjjk",
+            "createdAt": "2024-03-13T18:40:14.061Z",
+            "updatedAt": "2024-03-13T18:40:14.061Z",
+            "__v": 0
+        }
+    ]
+}
